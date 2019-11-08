@@ -5,3 +5,23 @@
 .topper {
   padding-top: 15px;
 }
+.firstpad {
+  padding-bottom: 20px;
+}
+
+.secondpad {
+  padding-top: 55px;
+}
+.leftpad {
+  padding-left: 55px;
+}
+.rightpad {
+  padding-right: 55px;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 2px 3px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
